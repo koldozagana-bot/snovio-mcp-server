@@ -85,6 +85,15 @@ Find all email addresses associated with a domain.
 ### snovio_linkedin_search
 Find email address from a LinkedIn profile URL.
 
+## Managing Updates
+
+This repository uses GitHub for version control. Each change creates a "checkpoint" (commit) that you can reference later.
+
+To update your code:
+1. Make changes on your local computer
+2. Ask Claude to sync the changes to GitHub
+3. Claude will read your local files and update GitHub
+
 ## License
 
 MIT
